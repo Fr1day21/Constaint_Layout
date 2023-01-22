@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P1T1M3ConstraintLayout</string>
+
+    <string name="str1">gravity = start</string>
+    <string name="str2">gravity = center</string>
+    <string name="str3">gravity = center horizontal</string>
+    <string name="str4">gravity = end</string>
+    <string name="str5">layout gravity = start </string>
+    <string name="str6">layout gravity = center</string>
+    <string name="str7">layout gravity = end</string>
+</resources>
